@@ -6,7 +6,6 @@ from streamlit_lottie import st_lottie
 
 
 st.header("Thanathon Niaoaongart")
-
 st.balloons()
 st.title('การทดสอบเขียนเว็บด้วย Python')
 st.header('นาย ธนธรณ์ เหนี่ยวองอาจ')
