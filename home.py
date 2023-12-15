@@ -11,9 +11,9 @@ col1, col2 = st.columns(2)
 #col1.write("This is column 1")
 #col2.write("This is column 2")
 with col1:
-    st.image('./pic/samakan.jpg')
+    st.image('./pic/d.jpg')
 with col2:
-    st.image('./pic/ทานตะวัน.jpg')
+    st.image('./pic/dd.jpg')
 
 html_1 = """
 <div style="background-color:#FFA31E;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
